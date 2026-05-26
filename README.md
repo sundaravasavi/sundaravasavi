@@ -1,5 +1,5 @@
 <h1 allign**center** Hey there,I'm vasavi 👋</h1>
-<p allign *center*>
+
 
 <!--
 **sundaravasavi/sundaravasavi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
